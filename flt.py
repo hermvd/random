@@ -16,7 +16,7 @@ def main():
             break
 
 
-    # In case you want to try this yourself
+    # In case you want to try this yourself. Remove the # from below!
     # base = int(input())
     #
     # for i in range(1, base):
